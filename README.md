@@ -4,7 +4,7 @@ this is a frontend application to find the charity from an api and save it to fa
 
 ## live demo
 
-[live demo]()
+[live demo](https://glittery-semifreddo-083a25.netlify.app)
 
 ## motivation
 
